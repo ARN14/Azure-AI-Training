@@ -37,6 +37,7 @@ def main():
     except Exception as ex:
         print(ex)
 
+
 def GetLanguage(text):
 
     # Create client using endpoint and key
